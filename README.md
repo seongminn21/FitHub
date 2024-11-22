@@ -42,90 +42,27 @@
 ## 🗒️FE 폴더 구조
 
 ```
-├─ .github
-│  ├─ ISSUE_TEMPLATE
-│  └─ PULL_REQUEST_TEMPLATE.md
-├─ .gitignore
-├─ .prettierrc
-├─ eslint.config.mjs
-├─ package-lock.json
-├─ package.json
-├─ public
-│  └─ index.html
-├─ README.md
-├─ setting.json
-├─ src
-│  ├─ 🧾apis
-│  ├─ App.css
-│  ├─ App.jsx
-│  ├─ 🖼️assets
-│  │  ├─ fonts
-│  │  ├─ icons
-│  │  └─ images
-│  ├─ ✨components
-│  │  ├─ Achievement
-│  │  ├─ Button
-│  │  ├─ Calendar
-│  │  ├─ Chat
-│  │  ├─ Dog
-│  │  ├─ Footer
-│  │  ├─ Goods
-│  │  ├─ Graph
-│  │  ├─ Header
-│  │  ├─ Image
-│  │  ├─ Input
-│  │  ├─ Layout
-│  │  ├─ Map
-│  │  ├─ Rate
-│  │  ├─ Reservation
-│  │  ├─ Review
-│  │  ├─ Schedule
-│  │  ├─ Tag
-│  │  ├─ Trail
-│  │  └─ Walk
-│  ├─ 💾hooks
-│  │  ├─ useForm.js
-│  │  ├─ useKakaoMap.js
-│  │  └─ useUserMap.js
-│  ├─ index.css
-│  ├─ index.js
-│  ├─ 🗂️pages
-│  │  ├─ Chat
-│  │  │  ├─ ChatList.jsx
-│  │  │  └─ ChatRoom.jsx
-│  │  ├─ Home.jsx
-│  │  ├─ Login.jsx
-│  │  ├─ Map
-│  │  │  ├─ MapInfo.jsx
-│  │  │  ├─ MapStatus.jsx
-│  │  │  ├─ MapStatusUser.jsx
-│  │  │  └─ TagFiltering.jsx
-│  │  ├─ MeongShop
-│  │  │  ├─ MeongShop.jsx
-│  │  │  └─ MyGoods.jsx
-│  │  ├─ MyInfo
-│  │  │  ├─ GoalStatus.jsx
-│  │  │  ├─ MoreRecordMyDogWalk.jsx
-│  │  │  ├─ MyInfoEdit.jsx
-│  │  │  ├─ MyInfoMain.jsx
-│  │  │  ├─ MyWalk.jsx
-│  │  │  ├─ OwnerReview.jsx
-│  │  │  ├─ RecordMyDogWalk.jsx
-│  │  │  ├─ RegisterDog.jsx
-│  │  │  ├─ ReviewReceived.jsx
-│  │  │  ├─ ReviewWritten.jsx
-│  │  │  └─ UserReview.jsx
-│  │  ├─ NotFound.jsx
-│  │  ├─ SignUp
-│  │  ├─ SocialLogin
-│  │  │  ├─ GoogleAuth.jsx
-│  │  │  ├─ KakaoAuth.jsx
-│  │  │  └─ NaverAuth.jsx
-│  │  ├─ TopUp.jsx
-│  │  └─ Walk
-│  ├─ reset.css
-│  └─ 🥪utils
-└─ webpack.config.js
+project/
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── app.js
+│   │
+│   └── images/
+│       └── logo.png
+│
+├── templates/
+│   ├── base.html
+│   ├── home.html
+│   ├── reservation.html
+│   └── login.html
+│
+├── app.py
+├── requirements.txt
+└── README.md
 ```
 
 
