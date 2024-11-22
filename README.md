@@ -55,10 +55,12 @@ project/
 │       └── logo.png
 │
 ├── templates/
-│   ├── base.html
 │   ├── home.html
-│   ├── reservation.html
-│   └── login.html
+│   ├── index.html
+│   ├── join.html
+│   ├── login.html
+│   ├── mypage.html
+│   └── reservation.html
 │
 ├── app.py
 ├── requirements.txt
