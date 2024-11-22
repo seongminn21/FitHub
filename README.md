@@ -72,5 +72,10 @@ project/
 ![공공데이터_와이어프레임](https://github.com/user-attachments/assets/f1567a1f-c0a9-4651-a3fd-94fa14608441)
 
 
+## 💻 시연 영상
+
+https://github.com/user-attachments/assets/1ef8626a-0e56-4be2-aa3b-655b4ebeb2eb
+
+
 <br>
 <br>
