@@ -1,0 +1,3 @@
+username,password,name,gender,birthdate,basic_living,disability,veteran,minor_children,max_discount
+test,12341234a,홍길동,1,2024-11-02,False,False,False,,30
+knurixx,1234qwer,김성민,0,2024-11-22,False,False,False,,30
