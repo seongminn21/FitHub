@@ -131,6 +131,8 @@
 
 ## 💎와이어프레임
 
-![와이어프레임](meong_signal/static/readme/frame.png)
+![공공데이터_와이어프레임](https://github.com/user-attachments/assets/f1567a1f-c0a9-4651-a3fd-94fa14608441)
+
+
 <br>
 <br>
