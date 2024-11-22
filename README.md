@@ -5,7 +5,7 @@
 > 
 ![캡처](https://github.com/user-attachments/assets/14a65eb9-a1ee-4e3c-a5ca-ab251925f78f)
 
-### 📂 Content
+### Content 📂
 
 - [🔎 기술 스택](#기술-스택)
 - [🔎 FE 폴더 구조](#FE-폴더-구조)
@@ -14,7 +14,7 @@
 
 <br>
 
-## 🛠️기술 스택
+## 기술 스택 🛠️
 
 <br>
 
@@ -39,7 +39,7 @@
 
 <br>
 
-## 🗒️FE 폴더 구조
+## FE 폴더 구조 🗒️
 
 ```
 project/
@@ -68,12 +68,12 @@ project/
 ```
 
 
-## 💎와이어프레임
+## 와이어프레임 ✏️
 
 ![공공데이터_와이어프레임](https://github.com/user-attachments/assets/f1567a1f-c0a9-4651-a3fd-94fa14608441)
 
 
-## 💻 시연 영상
+## 시연 영상 💻
 
 https://github.com/user-attachments/assets/1ef8626a-0e56-4be2-aa3b-655b4ebeb2eb
 
